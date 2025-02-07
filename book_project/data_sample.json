@@ -1,0 +1,82 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2943,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "Fiyw_LeL51MC",
+            "etag": "zpktEm+qqQg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Fiyw_LeL51MC",
+            "volumeInfo": {
+                "title": "Helter Skelter: The True Story of the Manson Murders",
+                "authors": [
+                    "Vincent Bugliosi",
+                    "Curt Gentry"
+                ],
+                "publisher": "W. W. Norton & Company",
+                "publishedDate": "2001-12-04",
+                "description": "The inside story behind the Manson killings explains how Charles Manson was able to make his \"family\" murder for him, chronicles the investigation, and describes in detail the court trial that brought him and his accomplices to justice. Winner of the Edgar Allan Poe Award. Reprint.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780393322231"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0393322238"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 698,
+                "printType": "BOOK",
+                "categories": [
+                    "Social Science"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 80,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Fiyw_LeL51MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Fiyw_LeL51MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com/books?id=Fiyw_LeL51MC&printsec=frontcover&dq=helterskelter+title&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com/books?id=Fiyw_LeL51MC&dq=helterskelter+title&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Helter_Skelter_The_True_Story_of_the_Man.html?hl=&id=Fiyw_LeL51MC"
+            },
+            "saleInfo": {
+                "country": "US",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "US",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Fiyw_LeL51MC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The inside story behind the Manson killings explains how Charles Manson was able to make his &quot;family&quot; murder for him, chronicles the investigation, and describes in detail the court trial that brought him and his accomplices to justice."
+            }
+        }
+    ]
+}

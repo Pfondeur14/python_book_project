@@ -1,0 +1,9 @@
+#pip-install libraries requirements
+#Project.py and test_project.py
+import requests
+import json
+import urllib.request
+from fpdf import FPDF
+import sys
+import math
+import pytest
